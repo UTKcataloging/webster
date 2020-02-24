@@ -29,18 +29,24 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/no2007099532"
-         authority="naf">
-      <namePart>Morris, Sonny</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n93048197"
-         authority="naf">
-      <namePart>Conner, Tom, 1955-</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/nb90777600"
-         authority="naf">
-      <namePart>Duncan, Tom</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/no2007099532"
+            authority="naf">
+      <name>
+         <namePart>Morris, Sonny</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n93048197"
+            authority="naf">
+      <name>
+         <namePart>Conner, Tom, 1955-</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/nb90777600"
+            authority="naf">
+      <name>
+         <namePart>Duncan, Tom</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4642642">
       <geographic>Moore Spring</geographic>
    </subject>

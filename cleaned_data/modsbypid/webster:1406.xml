@@ -29,21 +29,29 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/nb90777600"
-         authority="naf">
-      <namePart>Duncan, Tom</namePart>
-   </name>
-   <name>
-      <namePart>Brightwell, Tom</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n93048197"
-         authority="naf">
-      <namePart>Conner, Tom, 1955-</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no2001087515"
-         authority="naf">
-      <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/nb90777600"
+            authority="naf">
+      <name>
+         <namePart>Duncan, Tom</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Brightwell, Tom</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n93048197"
+            authority="naf">
+      <name>
+         <namePart>Conner, Tom, 1955-</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/no2001087515"
+            authority="naf">
+      <name>
+         <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4662610">
       <geographic>Thunderhead Mountain</geographic>
    </subject>

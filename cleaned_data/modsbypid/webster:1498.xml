@@ -29,10 +29,12 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/nb90777600"
-         authority="naf">
-      <namePart>Duncan, Tom</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/nb90777600"
+            authority="naf">
+      <name>
+         <namePart>Duncan, Tom</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4613325">
       <geographic>Chilhowee Mountain</geographic>
    </subject>

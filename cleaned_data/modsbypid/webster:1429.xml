@@ -29,14 +29,18 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/n98008990"
-         authority="naf">
-      <namePart>Webster, Mildred Dunham, 1901-1992</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no2007099532"
-         authority="naf">
-      <namePart>Morris, Sonny</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/n98008990"
+            authority="naf">
+      <name>
+         <namePart>Webster, Mildred Dunham, 1901-1992</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/no2007099532"
+            authority="naf">
+      <name>
+         <namePart>Morris, Sonny</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4494686">
       <geographic>Tellico</geographic>
    </subject>

@@ -28,12 +28,16 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name>
-      <namePart>Turrentine, Jack</namePart>
-   </name>
-   <name>
-      <namePart>Brightwell, Tom</namePart>
-   </name>
+   <subject>
+      <name>
+         <namePart>Turrentine, Jack</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Brightwell, Tom</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4463993">
       <geographic>Double Springs Gap</geographic>
    </subject>

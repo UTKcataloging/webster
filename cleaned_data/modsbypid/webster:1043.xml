@@ -29,13 +29,17 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/n89642280"
-         authority="naf">
-      <namePart>Gibson, Charles</namePart>
-   </name>
-   <name>
-      <namePart>Brightwell, Tom</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/n89642280"
+            authority="naf">
+      <name>
+         <namePart>Gibson, Charles</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Brightwell, Tom</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI="https://sws.geonames.org/4495028">
       <geographic>Three Forks</geographic>
    </subject>

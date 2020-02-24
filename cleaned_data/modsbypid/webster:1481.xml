@@ -28,23 +28,33 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name>
-      <namePart>McKaye, Benton</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n2004050214"
-         authority="naf">
-      <namePart>Roth, Albert, 1890-1974</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n50042766"
-         authority="naf">
-      <namePart>Broome, Harvey, 1902-1968</namePart>
-   </name>
-   <name>
-      <namePart>Edmondson, Gail</namePart>
-   </name>
-   <name>
-      <namePart>Frizzell, Guy</namePart>
-   </name>
+   <subject>
+      <name>
+         <namePart>McKaye, Benton</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n2004050214"
+            authority="naf">
+      <name>
+         <namePart>Roth, Albert, 1890-1974</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n50042766"
+            authority="naf">
+      <name>
+         <namePart>Broome, Harvey, 1902-1968</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Edmondson, Gail</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Frizzell, Guy</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4653451">
       <geographic>Roan Mountain</geographic>
    </subject>

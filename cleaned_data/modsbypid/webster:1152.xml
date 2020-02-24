@@ -33,9 +33,11 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85019231">
       <topic>Camping</topic>
    </subject>
-   <name>
-      <namePart>Brightwell, Tom</namePart>
-   </name>
+   <subject>
+      <name>
+         <namePart>Brightwell, Tom</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4626299">
       <geographic>Greenbrier Cove</geographic>
    </subject>

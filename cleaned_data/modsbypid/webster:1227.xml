@@ -29,10 +29,12 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/n50042766"
-         authority="naf">
-      <namePart>Broome, Harvey, 1902-1968</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/n50042766"
+            authority="naf">
+      <name>
+         <namePart>Broome, Harvey, 1902-1968</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4474212">
       <geographic>Mount Kephart</geographic>
    </subject>

@@ -33,23 +33,33 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
       <topic>Buildings</topic>
    </subject>
-   <name valueURI="http://id.loc.gov/authorities/names/nb90777600"
-         authority="naf">
-      <namePart>Duncan, Tom</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n98008990"
-         authority="naf">
-      <namePart>Webster, Mildred Dunham, 1901-1992</namePart>
-   </name>
-   <name>
-      <namePart>Manley, Elvie</namePart>
-   </name>
-   <name>
-      <namePart>Frizzell, Guy</namePart>
-   </name>
-   <name>
-      <namePart>Morris, Sunny</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/nb90777600"
+            authority="naf">
+      <name>
+         <namePart>Duncan, Tom</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n98008990"
+            authority="naf">
+      <name>
+         <namePart>Webster, Mildred Dunham, 1901-1992</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Manley, Elvie</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Frizzell, Guy</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Morris, Sunny</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4626299">
       <geographic>Greenbrier Cove</geographic>
    </subject>

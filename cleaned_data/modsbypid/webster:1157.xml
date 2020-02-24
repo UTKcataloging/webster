@@ -33,9 +33,11 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85145720">
       <topic>Waterfalls</topic>
    </subject>
-   <name>
-      <namePart>Foulkes, Harriett</namePart>
-   </name>
+   <subject>
+      <name>
+         <namePart>Foulkes, Harriett</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4652070">
       <geographic>Ramsey Cascades</geographic>
    </subject>

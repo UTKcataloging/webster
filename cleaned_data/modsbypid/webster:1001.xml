@@ -36,13 +36,17 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85060793">
       <topic>Hiking</topic>
    </subject>
-   <name valueURI="http://id.loc.gov/authorities/names/n2004050214"
-         authority="naf">
-      <namePart>Roth, Albert, 1890-1974</namePart>
-   </name>
-   <name>
-      <namePart>Edmondson, Gail (Frizzell)</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/n2004050214"
+            authority="naf">
+      <name>
+         <namePart>Roth, Albert, 1890-1974</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Edmondson, Gail (Frizzell)</namePart>
+      </name>
+   </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
       <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>

@@ -29,10 +29,12 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/n2004050214"
-         authority="naf">
-      <namePart>Roth, Albert, 1890-1974</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/n2004050214"
+            authority="naf">
+      <name>
+         <namePart>Roth, Albert, 1890-1974</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4621030">
       <geographic>English Mountain</geographic>
    </subject>

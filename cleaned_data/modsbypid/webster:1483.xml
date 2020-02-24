@@ -29,10 +29,12 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/nr91010659"
-         authority="naf">
-      <namePart>DuBois, Charles</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/nr91010659"
+            authority="naf">
+      <name>
+         <namePart>DuBois, Charles</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4464471">
       <geographic>Eagle Rocks</geographic>
    </subject>

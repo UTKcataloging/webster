@@ -33,10 +33,12 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85060793">
       <topic>Hiking</topic>
    </subject>
-   <name valueURI="http://id.loc.gov/authorities/names/nr91010659"
-         authority="naf">
-      <namePart>DuBois, Charles</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/nr91010659"
+            authority="naf">
+      <name>
+         <namePart>DuBois, Charles</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4482213">
       <geographic>Noland Creek</geographic>
    </subject>

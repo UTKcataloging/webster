@@ -33,10 +33,12 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85123727">
       <topic>Snakes</topic>
    </subject>
-   <name valueURI="http://id.loc.gov/authorities/names/n95016390"
-         authority="naf">
-      <namePart>Bagwell, Dick</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/n95016390"
+            authority="naf">
+      <name>
+         <namePart>Bagwell, Dick</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4470270">
       <geographic>Haw Knob</geographic>
    </subject>

@@ -29,25 +29,35 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/n50042766"
-         authority="naf">
-      <namePart>Broome, Harvey, 1902-1968</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n2004050214"
-         authority="naf">
-      <namePart>Roth, Albert, 1890-1974</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n84022716"
-         authority="naf">
-      <namePart>Barber, George</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n81147263"
-         authority="naf">
-      <namePart>Berry, Walter</namePart>
-   </name>
-   <name>
-      <namePart>Thomas, Whiley</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/n50042766"
+            authority="naf">
+      <name>
+         <namePart>Broome, Harvey, 1902-1968</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n2004050214"
+            authority="naf">
+      <name>
+         <namePart>Roth, Albert, 1890-1974</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n84022716"
+            authority="naf">
+      <name>
+         <namePart>Barber, George</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n81147263"
+            authority="naf">
+      <name>
+         <namePart>Berry, Walter</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Thomas, Whiley</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4618817">
       <geographic>Double Spring Gap</geographic>
    </subject>

@@ -33,9 +33,11 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85060793">
       <topic>Hiking</topic>
    </subject>
-   <name>
-      <namePart>Greenlee, Katheryn</namePart>
-   </name>
+   <subject>
+      <name>
+         <namePart>Greenlee, Katheryn</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4665366">
       <geographic>Walker Prong</geographic>
    </subject>

@@ -29,9 +29,11 @@
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <name valueURI="http://id.loc.gov/authorities/names/no201902" authority="naf">
-      <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/no201902" authority="naf">
+      <name>
+         <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
+      </name>
+   </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
       <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>

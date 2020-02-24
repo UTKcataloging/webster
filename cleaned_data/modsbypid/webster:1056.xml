@@ -33,9 +33,11 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85060793">
       <topic>Hiking</topic>
    </subject>
-   <name>
-      <namePart>Brightwell, Tom</namePart>
-   </name>
+   <subject>
+      <name>
+         <namePart>Brightwell, Tom</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI="https://sws.geonames.org/4479845">
       <geographic>Mount Mitchell</geographic>
    </subject>

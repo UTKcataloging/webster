@@ -33,13 +33,17 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85049168">
       <topic>Floods</topic>
    </subject>
-   <name valueURI="http://id.loc.gov/authorities/names/n85803380"
-         authority="naf">
-      <namePart>Thomas, June</namePart>
-   </name>
-   <name>
-      <namePart>Clark, Walter (Cotton)</namePart>
-   </name>
+   <subject valueURI="http://id.loc.gov/authorities/names/n85803380"
+            authority="naf">
+      <name>
+         <namePart>Thomas, June</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Clark, Walter (Cotton)</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4460240">
       <geographic>Charlies Bunion</geographic>
    </subject>

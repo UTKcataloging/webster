@@ -32,29 +32,41 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85145720">
       <topic>Waterfalls</topic>
    </subject>
-   <name>
-      <namePart>Foulkes, Harriett</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n50042766"
-         authority="naf">
-      <namePart>Broome, Harvey, 1902-1968</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n2004050214"
-         authority="naf">
-      <namePart>Roth, Albert, 1890-1974</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no2006040301"
-         authority="naf">
-      <namePart>Beach, Roy</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no2007099532"
-         authority="naf">
-      <namePart>Morris, Sonny</namePart>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no2019021769"
-         authority="naf">
-      <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
-   </name>
+   <subject>
+      <name>
+         <namePart>Foulkes, Harriett</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n50042766"
+            authority="naf">
+      <name>
+         <namePart>Broome, Harvey, 1902-1968</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n2004050214"
+            authority="naf">
+      <name>
+         <namePart>Roth, Albert, 1890-1974</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/no2006040301"
+            authority="naf">
+      <name>
+         <namePart>Beach, Roy</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/no2007099532"
+            authority="naf">
+      <name>
+         <namePart>Morris, Sonny</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/no2019021769"
+            authority="naf">
+      <name>
+         <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
+      </name>
+   </subject>
    <subject authority="geonames" valueURI=" http://sws.geonames.org/4782256">
       <geographic>Roaring Fork</geographic>
    </subject>
