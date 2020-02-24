@@ -21,7 +21,7 @@
    </name>
    <originInfo>
       <dateCreated>circa 1928</dateCreated>
-      <dateCreated encoding="edtf">1928</dateCreated>
+      <dateCreated type="approximate" encoding="edtf">1928</dateCreated>
    </originInfo>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
