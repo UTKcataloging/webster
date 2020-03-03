@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_002333_000490</identifier>
    <identifier type="pid">webster:1257</identifier>
-   <identifier type="photograph number">248</identifier>
+   <identifier type="archival number">248</identifier>
    <titleInfo>
       <title>Trickling Falls on Road Prong</title>
    </titleInfo>
@@ -24,7 +24,7 @@
       <dateCreated encoding="edtf">1936-03-22</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>

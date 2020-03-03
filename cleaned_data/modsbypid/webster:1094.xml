@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_002333_000303</identifier>
    <identifier type="pid">webster:1094</identifier>
-   <identifier type="photograph number">92</identifier>
+   <identifier type="archival number">92</identifier>
    <titleInfo>
       <title>Looking East from Mt. Sterling. Two trips on Labor Day week-end. White Rock (Mt. Cammerer) and Sterling (long hot hike to Sterling)</title>
    </titleInfo>
@@ -24,7 +24,7 @@
       <dateCreated encoding="edtf">1934-09-02</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>

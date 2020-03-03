@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_002333_000647</identifier>
    <identifier type="pid">webster:1409</identifier>
-   <identifier type="photograph number">390</identifier>
+   <identifier type="archival number">390</identifier>
    <titleInfo>
       <title>The Chimney Saddle. Picture made by Jim Francis</title>
    </titleInfo>
@@ -21,10 +21,10 @@
    </name>
    <originInfo>
       <dateCreated>circa 1928</dateCreated>
-      <dateCreated type="approximate" encoding="edtf">1928</dateCreated>
+      <dateCreated encoding="edtf">1928</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>

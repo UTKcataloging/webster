@@ -17,7 +17,7 @@
 
 <identifier type="pid">{{cells["PID"].value}}</identifier>
 
-<identifier type="photograph number">{{cells["Photograph_identifier"].value}}</identifier>
+{{if(isBlank(cells["Archival_Number"].value),'', '<identifier type="archival number">' + cells['Archival_Number'].value + '</identifier>')}}
 
 <titleInfo><title>{{cells["title"].value}}</title></titleInfo>
 

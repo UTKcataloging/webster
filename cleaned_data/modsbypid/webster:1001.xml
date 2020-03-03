@@ -6,10 +6,10 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_002333_000202</identifier>
    <identifier type="pid">webster:1001</identifier>
-   <identifier type="photograph number">Dutch Roth &amp; Gail Edmondson (Frizzell)</identifier>
    <titleInfo>
       <title>Dutch Roth &amp; Gail Edmondson (Frizzell)</title>
    </titleInfo>
+   <abstract>Dutch Roth &amp; Gail Edmondson (Frizzell)</abstract>
    <name valueURI="http://id.loc.gov/authorities/names/no2019021769"
          authority="naf">
       <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
@@ -24,7 +24,7 @@
       <dateCreated encoding="edtf" point="end">1955</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>

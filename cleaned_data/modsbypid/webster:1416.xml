@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_002333_000658</identifier>
    <identifier type="pid">webster:1416</identifier>
-   <identifier type="photograph number">398</identifier>
+   <identifier type="archival number">398</identifier>
    <titleInfo>
       <title>Trip to Brushy from vacation Camp in Greenbrier. First we saw it raining below us, then we watched the clouds moving in on us. Soon, we were drenched by the heavy rain</title>
    </titleInfo>
@@ -24,7 +24,7 @@
       <dateCreated encoding="edtf">1937-08-17</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>

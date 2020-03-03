@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_002333_000702</identifier>
    <identifier type="pid">webster:1453</identifier>
-   <identifier type="photograph number">428</identifier>
+   <identifier type="archival number">428</identifier>
    <titleInfo>
       <title>Ice Overhead! We had to watch for falling ice as well as our footing as we worked our way down the frozen gorge of Roaring Fork</title>
    </titleInfo>
@@ -24,7 +24,7 @@
       <dateCreated encoding="edtf">1940-01-21</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>

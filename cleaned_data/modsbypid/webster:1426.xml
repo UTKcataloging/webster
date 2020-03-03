@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_002333_000668</identifier>
    <identifier type="pid">webster:1426</identifier>
-   <identifier type="photograph number">406</identifier>
+   <identifier type="archival number">406</identifier>
    <titleInfo>
       <title>School House. Little Greenbrier. Note that only 5 logs were required to bring wall to proper height</title>
    </titleInfo>
@@ -24,7 +24,7 @@
       <dateCreated encoding="edtf">1955-02</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>

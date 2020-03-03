@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_002333_000717</identifier>
    <identifier type="pid">webster:1463</identifier>
-   <identifier type="photograph number">437</identifier>
+   <identifier type="archival number">437</identifier>
    <titleInfo>
       <title>Little Cabin at the Spring - Cherokee Orchard. Destroyed by Park Service</title>
    </titleInfo>
@@ -21,10 +21,10 @@
    </name>
    <originInfo>
       <dateCreated>circa 1932</dateCreated>
-      <dateCreated type="approximate" encoding="edtf">1932</dateCreated>
+      <dateCreated encoding="edtf">1932</dateCreated>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
