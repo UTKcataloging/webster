@@ -25,18 +25,28 @@
       <dateCreated encoding="edtf" point="end">1955</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
    <subject authority="geonames" valueURI="http://sws.geonames.org/4638451">
       <geographic>Low Gap Trail</geographic>
+      <cartographics>
+         <coordinates>35.03841, -84.52104</coordinates>
+      </cartographics>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/6180926">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/6180926">
       <geographic>White Rock</geographic>
+      <cartographics>
+         <coordinates>48.1832, -53.84811</coordinates>
+      </cartographics>
    </subject>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/4458771 ">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4458771">
       <geographic>Mount Cammerer</geographic>
+      <cartographics>
+         <coordinates>35.76355, -83.16109</coordinates>
+      </cartographics>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">

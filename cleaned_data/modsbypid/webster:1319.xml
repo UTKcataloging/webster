@@ -24,6 +24,7 @@
       <dateCreated encoding="edtf">1936-12-20</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
@@ -34,9 +35,15 @@
    </subject>
    <subject authority="geonames" valueURI="https://sws.geonames.org/12122455">
       <geographic>Alum Cave Trail</geographic>
+      <cartographics>
+         <coordinates>35.64432, -83.44115</coordinates>
+      </cartographics>
    </subject>
    <subject authority="geonames" valueURI="https://sws.geonames.org/4602967">
       <geographic>Arch Rock</geographic>
+      <cartographics>
+         <coordinates>35.63241, -83.44496</coordinates>
+      </cartographics>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">

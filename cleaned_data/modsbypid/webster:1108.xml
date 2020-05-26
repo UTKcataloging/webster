@@ -25,6 +25,7 @@
       <dateCreated encoding="edtf" point="end">1955</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>

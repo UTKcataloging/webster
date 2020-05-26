@@ -25,6 +25,7 @@
       <dateCreated encoding="edtf" point="end">1955</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
@@ -33,11 +34,17 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
       <topic>Buildings</topic>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4626502">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4626502">
       <geographic>Gregory Bald</geographic>
+      <cartographics>
+         <coordinates>35.52067, -83.86553</coordinates>
+      </cartographics>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4642642">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4642642">
       <geographic>Moore Spring</geographic>
+      <cartographics>
+         <coordinates>36.03978, -84.07446</coordinates>
+      </cartographics>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">

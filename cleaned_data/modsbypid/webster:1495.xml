@@ -24,6 +24,7 @@
       <dateCreated encoding="edtf">1934-02-04</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
@@ -38,8 +39,11 @@
          <namePart>Broome, Harvey, 1902-1968</namePart>
       </name>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4782256">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4782256">
       <geographic>Roaring Fork</geographic>
+      <cartographics>
+         <coordinates>36.96926, -82.73433</coordinates>
+      </cartographics>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">

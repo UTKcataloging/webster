@@ -25,6 +25,7 @@
       <dateCreated encoding="edtf" point="end">1955</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
@@ -61,11 +62,17 @@
          <namePart>Donaldson, John</namePart>
       </name>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4592340">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4592340">
       <geographic>Rainbow Falls</geographic>
+      <cartographics>
+         <coordinates>33.58236, -81.86872</coordinates>
+      </cartographics>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4635943">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4635943">
       <geographic>Le Conte Creek</geographic>
+      <cartographics>
+         <coordinates>35.70954, -83.52266</coordinates>
+      </cartographics>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">

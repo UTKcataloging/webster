@@ -24,18 +24,28 @@
       <dateCreated encoding="edtf">1937-04-15</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
    <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4469846">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4469846">
       <geographic>Hangover Lead</geographic>
+      <cartographics>
+         <coordinates>35.44064, -83.96546</coordinates>
+      </cartographics>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4490339">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4490339">
       <geographic>Lake Santeetlah</geographic>
+      <cartographics>
+         <coordinates>35.36389, -83.86444</coordinates>
+      </cartographics>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4493753">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4493753">
       <geographic>Stratton Bald</geographic>
+      <cartographics>
+         <coordinates>35.37342, -83.99296</coordinates>
+      </cartographics>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">

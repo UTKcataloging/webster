@@ -31,7 +31,7 @@
 {{if(isBlank(cells["dateRange_start"].value),'','<dateCreated encoding="edtf" point="start">' + cells['dateRange_start'].value + '</dateCreated>' + '<dateCreated encoding="edtf" point="end">' + cells['dateRange_end'].value + '</dateCreated>')}}
 </originInfo>
 
-<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><internetMediaType>{{cells['internetMediaType'].value}}</internetMediaType></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form><internetMediaType>{{cells['internetMediaType'].value}}</internetMediaType></physicalDescription>
 
 <note displayLabel="dpn">{{cells['note'].value}}</note>
 

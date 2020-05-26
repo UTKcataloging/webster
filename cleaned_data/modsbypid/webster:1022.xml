@@ -25,6 +25,7 @@
       <dateCreated encoding="edtf" point="end">1955</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
@@ -41,12 +42,21 @@
    </subject>
    <subject authority="geonames" valueURI="https://sws.geonames.org/4667338">
       <geographic>White Rock Hollow</geographic>
+      <cartographics>
+         <coordinates>35.92315, -83.08265</coordinates>
+      </cartographics>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4813184">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4813184">
       <geographic>Low Gap</geographic>
+      <cartographics>
+         <coordinates>38.03149, -81.83568</coordinates>
+      </cartographics>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4458771">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4458771">
       <geographic>Mount Cammerer</geographic>
+      <cartographics>
+         <coordinates>35.76355, -83.16109</coordinates>
+      </cartographics>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">

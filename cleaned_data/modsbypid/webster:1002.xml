@@ -25,6 +25,7 @@
       <dateCreated encoding="edtf" point="end">1955</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
@@ -35,8 +36,11 @@
          <namePart>Gibson, Charles</namePart>
       </name>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/5610058">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/5610058">
       <geographic>Three Forks</geographic>
+      <cartographics>
+         <coordinates>42.09073, -116.0301</coordinates>
+      </cartographics>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">

@@ -24,6 +24,7 @@
       <dateCreated encoding="edtf">1934-09-02</dateCreated>
    </originInfo>
    <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographs)</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
@@ -38,8 +39,11 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
       <topic>Buildings</topic>
    </subject>
-   <subject authority="geonames" valueURI=" http://sws.geonames.org/4418272">
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4418272">
       <geographic>Big Creek</geographic>
+      <cartographics>
+         <coordinates>33.85261, -89.41119</coordinates>
+      </cartographics>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
