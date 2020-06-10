@@ -6,51 +6,6 @@
             <serialized version="22.1" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
-                        <String>scenario.associations</String>
-                        <scenarioAssociation-array>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>modscollection.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>modscollection</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>../../../acwiley/cleaned_data/remediation_files/modscollection.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>modscollection</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                        </scenarioAssociation-array>
-                    </entry>
-                    <entry>
                         <String>scenarios</String>
                         <scenario-array>
                             <scenario>

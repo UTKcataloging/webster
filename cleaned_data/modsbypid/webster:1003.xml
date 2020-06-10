@@ -8,9 +8,9 @@
    <identifier type="pid">webster:1003</identifier>
    <identifier type="archival number">43</identifier>
    <titleInfo>
-      <title>Mt Guyot from White Rock</title>
+      <title>Mt Guyot from White Rod</title>
    </titleInfo>
-   <abstract>Mt Guyot from White Rock</abstract>
+   <abstract>Mt Guyot from White Rod</abstract>
    <name valueURI="http://id.loc.gov/authorities/names/no2019021769"
          authority="naf">
       <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
@@ -67,7 +67,7 @@
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
    <recordInfo>
-      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">The University of Tennessee Libraries, Knoxville</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
